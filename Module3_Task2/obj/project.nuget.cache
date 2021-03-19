@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnE5tSWG6OmlOOog4lZta0gtElrSYXUYz8STZrDxpgsIxAI546uAfYHNNt8m9QQ4OyBguymf4y02/FFADizRlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vira\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Vira\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
