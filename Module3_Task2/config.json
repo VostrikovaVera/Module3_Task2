@@ -1,6 +1,6 @@
 ﻿{
   "Languages": [
-    { "Eng": "abcdefghigklmnopqrstuvwxyz" },
-    { "Rus": "абвгджзиклмнопрстуфхцчшщьыъэюя" }
+    { "en-US": "abcdefghijklmnopqrstuvwxyz" },
+    { "ru-RU": "абвгджзиклмнопрстуфхцчшщьыъэюя" }
   ]
 }

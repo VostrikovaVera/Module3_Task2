@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj": {}
+    "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj": {
+    "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj",
+        "projectUniqueName": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj",
         "projectName": "Module3_Task2",
-        "projectPath": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj",
+        "projectPath": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2.csproj",
         "packagesPath": "C:\\Users\\Vira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\Module3_Task2\\obj\\",
+        "outputPath": "C:\\Users\\Vira\\learning\\C# .NET\\Module3_Task2\\Module3_Task2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
