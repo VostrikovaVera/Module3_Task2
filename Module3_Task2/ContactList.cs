@@ -64,6 +64,20 @@ namespace Module3_Task2
             AddToList("#", contact);
         }
 
+        public void Remove(Contact contact)
+        {
+            foreach (KeyValuePair<string, List<Contact>> p in _list)
+            {
+                foreach (Contact item in p.Value)
+                {
+                    if (item.FullName == contact.FullName && item.PhoneNumber == contact.PhoneNumber)
+                    {
+                        p.Value.Remove(contact);
+                    }
+                }
+            }
+        }
+
         public IEnumerator<string> GetEnumerator()
         {
             foreach (KeyValuePair<string, List<Contact>> p in _list)

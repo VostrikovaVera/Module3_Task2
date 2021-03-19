@@ -22,6 +22,8 @@ namespace Module3_Task2
             contactList.Add(new Contact("apartment", "15", "777777777"));
             contactList.Add(new Contact("Pizza", "*", "123456789"));
 
+            contactList.Remove(new Contact("Pizza", "*", "123456789"));
+
             foreach (string p in contactList)
             {
                 Console.WriteLine(p);
